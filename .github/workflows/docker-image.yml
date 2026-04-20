@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/mineru-runpod-worker:mineru-v1
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/mineru-runpod-worker:fix1
